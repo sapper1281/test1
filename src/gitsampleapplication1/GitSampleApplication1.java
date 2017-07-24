@@ -9,7 +9,7 @@ package gitsampleapplication1;
  *
  * @author t.blummer
  */
-public class GitSampleApplication1 {
+public class GitSampleApplication12 {
 
     /**
      * @param args the command line arguments
